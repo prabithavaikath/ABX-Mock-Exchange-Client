@@ -26,12 +26,9 @@ A C# client application for interacting with the ABX Mock Exchange Server. The A
 1. Clone the repository and navigate to the server directory.
 2. Start the ABX Mock Exchange Server:
  
-   node server.js
-  
-3. Ensure the server logs:
+    node main.js
  
-   TCP server started on port 3000.
-   
+   TCP server started on port 3000.   
 
 ### **2. Setup the Client**
 1. Clone the client repository.
